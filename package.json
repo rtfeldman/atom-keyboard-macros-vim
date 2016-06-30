@@ -13,6 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-keyboard-macros": "^0.8.1"
+    "atom-keyboard-macros": "git@github.com:rtfeldman/atom-keyboard-macros.git#21b85f7eaa57e023577406334b6b7de7470ba9ab"
   }
 }
